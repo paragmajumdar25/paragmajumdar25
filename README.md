@@ -1,16 +1,35 @@
-## Hi there 👋
+Hi 👋, I'm Parag Majumdar
 
-<!--
-**paragmajumdar25/paragmajumdar25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd-Year BTech Computer Science & Engineering Student
 
-Here are some ideas to get you started:
+💻 Interested in Full-Stack Development and Cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Always learning, building projects, and improving my problem-solving skills.
+
+🛠️ Tech Stack
+
+Languages
+
+"C" "Java" "Python" "JavaScript"
+
+Frontend Development
+
+"HTML" "CSS" "React" "Next.js"
+
+Backend Development
+
+"Node.js" "Express.js"
+
+Databases
+
+"PostgreSQL" "SQLite"
+
+Tools
+
+"Git" "GitHub" "VS Code" "Postman"
+
+---
+
+⭐ Learning by building, growing through coding.
+
+

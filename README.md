@@ -1,4 +1,4 @@
-Hi 👋, I'm Parag Majumdar
+# Hi 👋, I'm Parag Majumdar
 
 🎓 3rd-Year BTech Computer Science & Engineering Student
 
@@ -6,24 +6,27 @@ Hi 👋, I'm Parag Majumdar
 
 🌱 Always learning and building projects.
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-Languages
+**Languages**
 
 C • Java • Python • JavaScript
 
-Frontend
+**Frontend**
 
 HTML • CSS • React • Next.js
 
-Backend
+**Backend**
 
 Node.js • Express.js
 
-Databases
+**Databases**
 
 PostgreSQL • SQLite
 
-Tools
+**Tools**
 
 Git • GitHub • VS Code • Postman
+
+---
+⭐ Always learning, building, and improving.

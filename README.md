@@ -4,32 +4,26 @@ Hi 👋, I'm Parag Majumdar
 
 💻 Interested in Full-Stack Development and Cybersecurity.
 
-🌱 Always learning, building projects, and improving my problem-solving skills.
+🌱 Always learning and building projects.
 
 🛠️ Tech Stack
 
 Languages
 
-"C" "Java" "Python" "JavaScript"
+C • Java • Python • JavaScript
 
-Frontend Development
+Frontend
 
-"HTML" "CSS" "React" "Next.js"
+HTML • CSS • React • Next.js
 
-Backend Development
+Backend
 
-"Node.js" "Express.js"
+Node.js • Express.js
 
 Databases
 
-"PostgreSQL" "SQLite"
+PostgreSQL • SQLite
 
 Tools
 
-"Git" "GitHub" "VS Code" "Postman"
-
----
-
-⭐ Learning by building, growing through coding.
-
-
+Git • GitHub • VS Code • Postman
